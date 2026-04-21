@@ -37,3 +37,6 @@ An AI-powered web app that analyzes any CSV file and generates insights automati
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🌍 Live Demo
+https://ai-data-analyzer-jzu6.onrender.com
